@@ -1,0 +1,6 @@
+datasets==4.3.0
+matplotlib==3.10.7
+tokenizers==0.22.1
+torch==2.9.0
+torchvision==0.24.0
+transformers==4.57.1
